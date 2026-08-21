@@ -1,0 +1,27 @@
+# 大体积目录（打包产物 / 运行时依赖，不上传）
+05_打包产物/
+06_依赖/
+工作台测试/
+
+# 本地工具目录
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+03_后端源码/data/
+03_后端源码/lib/
+03_后端源码/dist/
+03_后端源码/build/
+
+# Node
+node_modules/
+02_前端源码/dist/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini

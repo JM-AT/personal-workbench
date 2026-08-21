@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+lancedb
+openai
+pydantic
+python-multipart
+numpy
+pypdf
+fastembed
